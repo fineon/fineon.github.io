@@ -6,14 +6,14 @@ module.exports = {
   title: 'My Site',
   tagline: 'Dinosaurs are cool',
   url: 'https://fineon.github.io/heyian-doc/',
-  baseUrl: '/heyian-doc/index.html/',
+  baseUrl: '/heyian-doc/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'fineon', // Usually your GitHub org/user name.
   projectName: 'heyian-doc', // Usually your repo name.
   trailingSlash: true,
-  themeConfig: {
+  themeConfig: { 
     navbar: {
       title: 'Ian Nguyen',
       logo: {
