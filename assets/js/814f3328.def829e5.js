@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocsaur_ian=self.webpackChunkdocsaur_ian||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/heyian-doc/index.html/blog/welcome"},{"title":"Hello","permalink":"/heyian-doc/index.html/blog/hello-world"},{"title":"Hola","permalink":"/heyian-doc/index.html/blog/hola"}]}')}}]);

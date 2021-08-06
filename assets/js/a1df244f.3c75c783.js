@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocsaur_ian=self.webpackChunkdocsaur_ian||[]).push([[223],{4799:function(a){a.exports=JSON.parse('{"allTagsPath":"https://github.com/fineon/heyian-doc/blog/tags","slug":"facebook","name":"facebook","count":1,"permalink":"https://github.com/fineon/heyian-doc/blog/tags/facebook"}')}}]);
