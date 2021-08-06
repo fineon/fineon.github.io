@@ -6,7 +6,7 @@ module.exports = {
   title: 'My Site',
   tagline: 'Dinosaurs are cool',
   url: 'https://fineon.github.io/heyian-doc/',
-  baseUrl: 'https://github.com/fineon/heyian-doc/',
+  baseUrl: '/heyian-doc/index.html/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
