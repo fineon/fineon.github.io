@@ -39,7 +39,7 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'docs',
           items: [
             {
               label: 'Notes',
