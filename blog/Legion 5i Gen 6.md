@@ -1,10 +1,11 @@
 ---
 slug: legion5i review
-title: The Lenovo Legion 5i Review and Report
+title: The Lenovo Legion 5i Review
 author: Ian Nguyen
-author_title: Docusaurus Core Team
+author_title: Just a human bean
 author_url: https://github.com/fineon
 author_image_url: https://github.com/fineon.png
+date: 2021-06-08 
 tags: [laptop, review, docusaurus]
 ---
 
@@ -28,9 +29,10 @@ I have been testing around but there's a few test cases i need to do before i'm 
 
 ## My Test Cases
 
-1. Coding
-2. Using multiple Chrome tabs (actually I use Vivaldi - a very customizable Chrome)
-3. 
+1. Booting up React dev server. Initial startup is so much faster than my older Dell. 
+2. Using multiple Chrome tabs (actually I use Vivaldi - a very customizable Chrome). It can handle over 20+ tabs just fine while my Dell already struggles with 5-10 tabs. 
+3. Destiny 2 gameplay. Gameplay is smooth and no jittering frames. 
+4. 
 
 ## Pros
 
@@ -39,4 +41,16 @@ So far, everything is working fine and super fast!
 - Switching between multiple music video works faster compared to the sluggish speed on my Dell XPS 13.
 - I can open multiple tabs on Vivaldi without experiencing delays or lags.
 - Apps are super responsive upon sleeping and waking up. No more delays in interactions. 
-- 
+- Destiny 2 is booting up just fine. The gameplay is smooth as well. 
+
+## (sort of) Cons
+
+That said, there's a few things I noticed while using the Legion 5i
+
+- Fan noise is super loud. No need to go to the airport when I've got a mini airport simulation at home with kind of fan noise. 
+- Laptop heat. Extended GPU usage will make the laptop hotter than usual. But it can't beat the magma-heat from my old Dell laptop.
+- The Lenovo Vantage  froze everytime it was opened. But i managed to fix it by reinstalling the app. 
+
+
+For my initial tests and usage, the Lenovo Legion 5i is doing much better than my older Dell XPS 13 already :)
+
