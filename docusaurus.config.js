@@ -73,18 +73,15 @@ module.exports = {
     [
       '@docusaurus/preset-classic',
       {
-        // removing the edit this page link since it doesn't really link properly to the repo
-        // docs: {
-        //   sidebarPath: require.resolve('./sidebars.js'),
-        //   // Please change this to your repo.
-        //   editUrl:
-        //     'https://github.com/fineon/heyian-doc/',
-        // },
+        docs: {
+          sidebarPath: require.resolve('./sidebars.js'),
+          editUrl:
+            'https://github.com/fineon/heyian-doc/tree/dev/',
+        },
         blog: {
           showReadingTime: true,
-          // Please change this to your repo.
           editUrl:
-            'https://github.com/fineon/heyian-doc/',
+            'https://github.com/fineon/heyian-doc/tree/dev/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
