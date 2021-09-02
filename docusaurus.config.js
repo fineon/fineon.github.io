@@ -3,7 +3,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'Hai Ian',
+  title: 'Ians website/online doc',
   tagline: 'Dinosaurs are cool',
   url: 'https://dev.heythereian.com/',
   baseUrl: '/',
@@ -25,9 +25,10 @@ module.exports = {
           label: 'Notes',
           to: '/docs/intro',
         },
-        {to: '/blog',
-        label: 'Blog',
-        position: 'left'
+        {
+          to: '/blog',
+          label: 'Blog',
+          position: 'left'
         },
         {
           href: 'https://github.com/fineon/heyian-doc/',
