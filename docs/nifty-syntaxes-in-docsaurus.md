@@ -1,15 +1,4 @@
----
-slug: cool things in docsaurus
-title: Cool Things I Learned While Using Docsaurus
-author: Ian Nguyen
-author_title: Just a human bean
-author_url: https://github.com/fineon
-author_image_url: https://github.com/fineon.png
-date: 2021-07-08 
-tags: [ docusaurus]
----
-
-## Cool Things I Learned While Using Docsaurus
+# Nifty Syntaxes in Docsaurus
 
 ### Fancy Markdown Markup
 
