@@ -4,7 +4,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'Ians website/online doc',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'Ian Nguyen. Marketer. Writer.',
   url: 'https://dev.heythereian.com/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
