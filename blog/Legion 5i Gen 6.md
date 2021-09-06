@@ -2,7 +2,7 @@
 slug: legion5i review
 title: The Lenovo Legion 5i Review
 author: Ian Nguyen
-author_title: Just a human bean
+author_title: Author
 author_url: https://github.com/fineon
 author_image_url: https://github.com/fineon.png
 date: 2021-06-08 
@@ -43,9 +43,9 @@ So far, everything is working fine and super fast!
 - Apps are super responsive upon sleeping and waking up. No more delays in interactions. 
 - Destiny 2 is booting up just fine. The gameplay is smooth as well. 
 
-## (sort of) Cons
+## Cons
 
-That said, there's a few things I noticed while using the Legion 5i
+That said, there are a few things I noticed while using the Legion 5i
 
 - Fan noise is super loud. No need to go to the airport when I've got a mini airport simulation at home with kind of fan noise. 
 - Laptop heat. Extended GPU usage will make the laptop hotter than usual. But it can't beat the magma-heat from my old Dell laptop.

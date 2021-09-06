@@ -3,8 +3,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'Ians website/online doc',
-  tagline: 'Ian Nguyen. Marketer. Writer.',
+  title: 'Hi, This Is Ian',
+  tagline: 'Content creator exploring the vast world of Linux and open source softwares.',
   url: 'https://dev.heythereian.com/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -16,10 +16,10 @@ module.exports = {
   themeConfig: { 
     navbar: {
       title: 'Ian Nguyen',
-      logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
-      },
+      // logo: {
+      //   alt: 'My Site Logo',
+      //   src: 'img/logo.svg',
+      // },
       items: [
         {
           label: 'Notes',
@@ -35,13 +35,18 @@ module.exports = {
           label: 'GitHub',
           position: 'right',
         },
+        {
+          to:'/contact',
+          label: 'Contact',
+          position: 'right',
+        },
       ],
     },
     footer: {
       style: 'dark',
       links: [
         {
-          title: 'docs',
+          title: 'Docs',
           items: [
             {
               label: 'Notes',
