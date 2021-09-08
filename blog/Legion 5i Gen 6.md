@@ -9,30 +9,18 @@ date: 2021-06-08
 tags: [laptop, review, docusaurus]
 ---
 
-## So I Bought an $1600 Computer on an Impulse
-
-And it's working fine. But more review and options to come. 
+So far it has been working well! Everything is silky smooth and functional. 
 
 :::tip Test Checklist
 I'd suggest checking out a few items that didn't really work propoerly on this legion 5i
 - **Lenovo Vantage application**: always crashed upon opening. I had to reinstall it to get it working again. This issue is also documented on user support forum. Not sure what is causing it exactly. 
 :::
 
-So far it has been working well! Everything is silky smooth and functional. 
-
-## Features To Test
-I have been testing around but there's a few test cases i need to do before i'm completely satisfied
-
-- Connect to an external monitor using HDMI cable.
-- Connect to my Iphone and sync images with it.
-- Play some HD game for an extended period of time
-
 ## My Test Cases
 
 1. Booting up React dev server. Initial startup is so much faster than my older Dell. 
 2. Using multiple Chrome tabs (actually I use Vivaldi - a very customizable Chrome). It can handle over 20+ tabs just fine while my Dell already struggles with 5-10 tabs. 
 3. Destiny 2 gameplay. Gameplay is smooth and no jittering frames. 
-4. 
 
 ## Pros
 

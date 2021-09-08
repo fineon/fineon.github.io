@@ -4,7 +4,6 @@ import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import styles from './index.module.css';
-// import HomepageFeatures from '../components/HomepageFeatures';
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
@@ -16,7 +15,7 @@ function HomepageHeader() {
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons}>
           <Link
-            className="button button--info button--lg"
+            className="button button--secondary button--lg"
             to="/docs/intro">
             See My Notes and Guides
           </Link>
@@ -31,18 +30,18 @@ function HomeBody(params) {
     <main className='container padding--xl'>
       <h2>Skills</h2>
       <div className='row margin-bottom--xl'>
-        <div className='col'>
+        <div className='col margin-bottom--lg'>
           <div className='card'>
             <div className='card__header'>
               <h3> Content Writing</h3>
             </div>
             <div className='card__body'>
-              <p>I have contributed to Vancouver's cultural newspaper The Source and What's Queer in BC, an online LGBT press for local queers</p>
+              <p>I have contributed to Vancouver's cultural newspaper <a href="https://thelasource.com/en/author/vinhnguyen/"> The Source </a> and <a href="https://whatsonqueerbc.com/woq-bc-stories?author=5f8f55db41ba6247cbc23cf6"> What's on Queer in BC </a>, an online LGBT press for local queers.</p>
             </div>
             <div className='card__footer'></div>
           </div>
         </div>
-        <div className='col'>
+        <div className='col margin-bottom--lg'>
           <div className='card'>
             <div className='card__header'>
               <h3>Single Page Application (SPA) Development</h3>
@@ -53,7 +52,7 @@ function HomeBody(params) {
             <div className='card__footer'></div>
           </div>
         </div>
-        <div className='col'>
+        <div className='col margin-bottom--lg'>
           <div className='card'>
             <div className='card__header'>
               <h3>Document Builder and Static Site Generator</h3>
@@ -66,63 +65,40 @@ function HomeBody(params) {
         </div>
       </div>
 
-      <h2>Interests</h2>
-      <div className='row margin-bottom--xl'>
-        <div className='col'>
-          <div className='card'>
-            <div className='card__header'>
-              <h3>Open Source Software</h3>
-            </div>
-            <div className='card__body'></div>
-            <div className='card__footer'></div>
-          </div>
-        </div>
-        <div className='col'>
-          <div className='card col'>
-            <div className='card__header'>
-              <h3>User Experience</h3>
-            </div>
-            <div className='card__body'></div>
-            <div className='card__footer'></div>
-          </div>
-        </div>
-        <div className='col'>
-          <div className='card'>
-            <div className='card__header'>
-              <h3>Web Development</h3>
-            </div>
-            <div className='card__body'></div>
-            <div className='card__footer'></div>
-          </div>
-        </div>
-      </div>
+     
 
       <h2>I Previously Worked At</h2>
       <div className='row margin-bottom--xl'>
-        <div className='col'>
+        <div className='col margin-bottom--lg'>
           <div className='card'>
             <div className='card__header'>
               <h3>PayByPhone</h3>
             </div>
-            <div className='card__body'></div>
+            <div className='card__body'>
+              <p>I have executed marketing campaigns for PayByPhone social media networks across North America including managing advertisement spending budget, writing various copies for social media posts and coordinating with third-party vendors for merchandise and supplies.</p>
+            </div>
             <div className='card__footer'></div>
           </div>
         </div>
-        <div className='col'>
+        <div className='col margin-bottom--lg'>
           <div className='card'>
             <div className='card__header'>
               <h3>General Internet</h3>
             </div>
-            <div className='card__body'></div>
+            <div className='card__body'>
+              <p>I have written various copies for corporate websites and Standard Operating Procedures (SOP) for small businesses.</p>
+            </div>
             <div className='card__footer'></div>
           </div>
         </div>
-        <div className='col'>
+        <div className='col margin-bottom--lg'>
           <div className='card'>
             <div className='card__header'>
               <h3>MOSAIC</h3>
             </div>
-            <div className='card__body'></div>
+            <div className='card__body'>
+              <p>Ran marketing advertisements and wrote copies for social media posts to promote the IPC conference.</p>
+            </div>
             <div className='card__footer'></div>
           </div>
         </div>
