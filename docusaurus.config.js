@@ -3,10 +3,10 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  url: 'https://fineon.github.io/heyian-doc/',
-  baseUrl: '/heyian-doc/',
+  title: 'Hi, This Is Ian',
+  tagline: 'Content creator exploring the vast world of Linux and open source softwares.',
+  url: 'https://fineon.github.io',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -16,21 +16,28 @@ module.exports = {
   themeConfig: { 
     navbar: {
       title: 'Ian Nguyen',
-      logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
-      },
+      // logo: {
+      //   alt: 'My Site Logo',
+      //   src: 'img/logo.svg',
+      // },
       items: [
         {
-          type: 'doc',
-          docId: 'intro',
-          position: 'left',
           label: 'Notes',
+          to: '/docs/intro',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
+        {
+          to: '/blog',
+          label: 'Blog',
+          position: 'left'
+        },
         {
           href: 'https://github.com/fineon/heyian-doc/',
           label: 'GitHub',
+          position: 'right',
+        },
+        {
+          to:'/contact',
+          label: 'Contact',
           position: 'right',
         },
       ],
@@ -74,15 +81,13 @@ module.exports = {
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+            'https://github.com/fineon/heyian-doc/tree/dev/',
         },
         blog: {
           showReadingTime: true,
-          // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+            'https://github.com/fineon/heyian-doc/tree/dev/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
