@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocsaur_ian=self.webpackChunkdocsaur_ian||[]).push([[319],{8597:function(a){a.exports=JSON.parse('{"allTagsPath":"/heyian-doc/blog/tags","slug":"/heyian-doc/blog/tags/laptop","name":"laptop","count":1,"permalink":"/heyian-doc/blog/tags/laptop"}')}}]);
