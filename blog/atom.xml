@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://fineon.github.io/blog</id>
+    <id>https://fineon.github.io/heyian-doc/blog</id>
     <title>Hi, This Is Ian Blog</title>
     <updated>2021-06-08T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://fineon.github.io/blog"/>
+    <link rel="alternate" href="https://fineon.github.io/heyian-doc/blog"/>
     <subtitle>Hi, This Is Ian Blog</subtitle>
-    <icon>https://fineon.github.io/img/favicon.ico</icon>
+    <icon>https://fineon.github.io/heyian-doc/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[The Lenovo Legion 5i Review]]></title>
         <id>legion5i review</id>
-        <link href="https://fineon.github.io/blog/legion5i review"/>
+        <link href="https://fineon.github.io/heyian-doc/blog/legion5i review"/>
         <updated>2021-06-08T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[So far it has been working well! Everything is silky smooth and functional.]]></summary>
         <author>

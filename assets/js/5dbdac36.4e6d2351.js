@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocsaur_ian=self.webpackChunkdocsaur_ian||[]).push([[698],{4915:function(a){a.exports=JSON.parse('{"allTagsPath":"/heyian-doc/blog/tags","slug":"/heyian-doc/blog/tags/review","name":"review","count":1,"permalink":"/heyian-doc/blog/tags/review"}')}}]);
