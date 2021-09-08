@@ -1,31 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://fineon.github.io/heyian-doc/heyian-doc/blog</id>
-    <title>My Site Blog</title>
-    <updated>2019-05-30T00:00:00.000Z</updated>
+    <id>https://fineon.github.io/blog</id>
+    <title>Hi, This Is Ian Blog</title>
+    <updated>2021-06-08T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://fineon.github.io/heyian-doc/heyian-doc/blog"/>
-    <subtitle>My Site Blog</subtitle>
-    <icon>https://fineon.github.io/heyian-doc/heyian-doc/img/favicon.ico</icon>
+    <link rel="alternate" href="https://fineon.github.io/blog"/>
+    <subtitle>Hi, This Is Ian Blog</subtitle>
+    <icon>https://fineon.github.io/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Welcome]]></title>
-        <id>welcome</id>
-        <link href="https://fineon.github.io/heyian-doc/heyian-doc/blog/welcome"/>
-        <updated>2019-05-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Blog features are powered by the blog plugin. Simply add files to the blog directory. It supports tags as well!]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello]]></title>
-        <id>hello-world</id>
-        <link href="https://fineon.github.io/heyian-doc/heyian-doc/blog/hello-world"/>
-        <updated>2019-05-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to this blog. This blog is created with Docusaurus 2.]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hola]]></title>
-        <id>hola</id>
-        <link href="https://fineon.github.io/heyian-doc/heyian-doc/blog/hola"/>
-        <updated>2019-05-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></summary>
+        <title type="html"><![CDATA[The Lenovo Legion 5i Review]]></title>
+        <id>legion5i review</id>
+        <link href="https://fineon.github.io/blog/legion5i review"/>
+        <updated>2021-06-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[So far it has been working well! Everything is silky smooth and functional.]]></summary>
+        <author>
+            <name>Ian Nguyen</name>
+            <uri>https://github.com/fineon</uri>
+        </author>
     </entry>
 </feed>
