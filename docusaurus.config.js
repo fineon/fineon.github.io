@@ -5,7 +5,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: 'Hi, This Is Ian',
   tagline: 'Content creator exploring the vast world of Linux and open source softwares.',
-  url: 'https://dev.heythereian.com/',
+  url: 'https://fineon.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
