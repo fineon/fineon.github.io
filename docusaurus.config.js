@@ -11,7 +11,7 @@ module.exports = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'fineon', // Usually your GitHub org/user name.
-  projectName: 'heyian-doc', // Usually your repo name.
+  projectName: 'fineon.github.io', // Usually your repo name.
   trailingSlash: true,
   themeConfig: { 
     navbar: {
