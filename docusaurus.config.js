@@ -31,7 +31,7 @@ module.exports = {
           position: 'left'
         },
         {
-          href: 'https://github.com/fineon/heyian-doc/',
+          href: 'https://github.com/fineon/fineon.github.io/',
           label: 'GitHub',
           position: 'right',
         },
@@ -63,7 +63,7 @@ module.exports = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/fineon/heyian-doc/',
+              href: 'https://github.com/fineon/fineon.github.io/',
             },
           ],
         },
@@ -82,12 +82,12 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl:
-            'https://github.com/fineon/heyian-doc/tree/dev/',
+            'https://github.com/fineon/fineon.github.io/tree/main/',
         },
         blog: {
           showReadingTime: true,
           editUrl:
-            'https://github.com/fineon/heyian-doc/tree/dev/',
+            'https://github.com/fineon/fineon.github.io/tree/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
