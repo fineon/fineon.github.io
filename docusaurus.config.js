@@ -5,21 +5,17 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: 'Hi, This Is Ian',
   tagline: 'Content creator exploring the vast world of Linux and open source softwares.',
-  url: 'https://fineon.github.io',
+  url: 'https://heythereian.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'fineon', // Usually your GitHub org/user name.
-  projectName: 'fineon.github.io', // Usually your repo name.
+  organizationName: 'fineon',
+  projectName: 'fineon.github.io',
   trailingSlash: true,
-  themeConfig: { 
+  themeConfig: {
     navbar: {
       title: 'Ian Nguyen',
-      // logo: {
-      //   alt: 'My Site Logo',
-      //   src: 'img/logo.svg',
-      // },
       items: [
         {
           label: 'Notes',
@@ -36,7 +32,7 @@ module.exports = {
           position: 'right',
         },
         {
-          to:'/contact',
+          to: '/contact',
           label: 'Contact',
           position: 'right',
         },
@@ -91,6 +87,14 @@ module.exports = {
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
+        },
+        googleAnalytics: {
+          trackingID: 'UA-121236675-3',
+          anonymizeIP: false,
+        },
+        sitemap: {
+          changefreq: 'weekly',
+          priority: 0.5,
         },
       },
     ],
