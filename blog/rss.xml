@@ -2,14 +2,14 @@
 <rss version="2.0">
     <channel>
         <title>Hi, This Is Ian Blog</title>
-        <link>https://fineon.github.io/blog</link>
+        <link>https://heythereian.com/blog</link>
         <description>Hi, This Is Ian Blog</description>
         <lastBuildDate>Tue, 08 Jun 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[The Lenovo Legion 5i Review]]></title>
-            <link>https://fineon.github.io/blog/lenovo-legion5i-review</link>
+            <link>https://heythereian.com/blog/lenovo-legion5i-review</link>
             <guid>lenovo-legion5i-review</guid>
             <pubDate>Tue, 08 Jun 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[So far it has been working well! Everything is silky smooth and functional.]]></description>
