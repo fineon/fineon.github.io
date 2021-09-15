@@ -4,9 +4,16 @@
         <title>Hi, This Is Ian Blog</title>
         <link>https://heythereian.com/blog</link>
         <description>Hi, This Is Ian Blog</description>
-        <lastBuildDate>Tue, 08 Jun 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Sep 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Why I Switched from OneNote to Notion]]></title>
+            <link>https://heythereian.com/blog/why-i-switched-from-onenote-to-notion</link>
+            <guid>why-i-switched-from-onenote-to-notion</guid>
+            <pubDate>Tue, 14 Sep 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[What is Notion?]]></description>
+        </item>
         <item>
             <title><![CDATA[The Lenovo Legion 5i Review]]></title>
             <link>https://heythereian.com/blog/lenovo-legion5i-review</link>

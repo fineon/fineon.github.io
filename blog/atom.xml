@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://heythereian.com/blog</id>
     <title>Hi, This Is Ian Blog</title>
-    <updated>2021-06-08T00:00:00.000Z</updated>
+    <updated>2021-09-14T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://heythereian.com/blog"/>
     <subtitle>Hi, This Is Ian Blog</subtitle>
     <icon>https://heythereian.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Why I Switched from OneNote to Notion]]></title>
+        <id>why-i-switched-from-onenote-to-notion</id>
+        <link href="https://heythereian.com/blog/why-i-switched-from-onenote-to-notion"/>
+        <updated>2021-09-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What is Notion?]]></summary>
+        <author>
+            <name>Ian Nguyen</name>
+            <uri>https://github.com/fineon</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Lenovo Legion 5i Review]]></title>
         <id>lenovo-legion5i-review</id>
