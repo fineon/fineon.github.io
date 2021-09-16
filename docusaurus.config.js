@@ -70,6 +70,14 @@ module.exports = {
       theme: lightCodeTheme,
       darkTheme: darkCodeTheme,
     },
+    googleAnalytics: {
+      trackingID: 'UA-121236675-3',
+      anonymizeIP: false,
+    },
+    sitemap: {
+      changefreq: 'weekly',
+      priority: 0.5,
+    },
   },
   presets: [
     [
@@ -88,14 +96,7 @@ module.exports = {
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
-        googleAnalytics: {
-          trackingID: 'UA-121236675-3',
-          anonymizeIP: false,
-        },
-        sitemap: {
-          changefreq: 'weekly',
-          priority: 0.5,
-        },
+        
       },
     ],
   ],
