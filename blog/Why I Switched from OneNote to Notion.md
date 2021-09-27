@@ -5,7 +5,7 @@ title: Why I Switched from OneNote to Notion
 author: Ian Nguyen
 author_title: Author
 author_url: https://github.com/fineon
-author_image_url: https://github.com/fineon.png
+author_image_url: https://avatars.githubusercontent.com/u/38566281?v=4
 date: 2021-09-14
 tags: [notion, migration]
 
