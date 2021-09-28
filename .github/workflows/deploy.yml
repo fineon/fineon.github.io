@@ -35,7 +35,7 @@ jobs:
           node-version: '12.x'
       - uses: webfactory/ssh-agent@v0.5.0
         with:
-          ssh-private-key: b3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAAAMwAAAAtzc2gtZWQyNTUxOQAAACAeKEWBvJ4+p/0W+KDRv07g9BqXY758KJ2DGpdRVCJHOgAAAJhwFtEHcBbRBwAAAAtzc2gtZWQyNTUxOQAAACAeKEWBvJ4+p/0W+KDRv07g9BqXY758KJ2DGpdRVCJHOgAAAEABMYTRoMNq8tppR2hMowcFHnhBtEhxroRAt1HJrynGqR4oRYG8nj6n/Rb4oNG/TuD0GpdjvnwonYMal1FUIkc6AAAAE2lhbkBoZXl0aGVyZWlhbi5jb20BAg==
+          ssh-private-key: ${{ secrets.GH_PAGES_DEPLOY }}
       - name: Release to GitHub Pages
         env:
           USE_SSH: true
