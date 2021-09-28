@@ -1,0 +1,58 @@
+name: main
+
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [main]
+
+jobs:
+  checks:
+    if: github.event_name != 'push'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - uses: actions/setup-node@v1
+        with:
+          node-version: '12.x'
+      - name: Test Build
+        run: |
+          if [ -e yarn.lock ]; then
+            yarn install --frozen-lockfile
+          elif [ -e package-lock.json ]; then
+            npm ci
+          else
+            npm i
+          fi
+          npm run build
+  gh-release:
+    if: github.event_name != 'pull_request'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - uses: actions/setup-node@v1
+        with:
+          node-version: '12.x'
+      - uses: webfactory/ssh-agent@v0.5.0
+        with:
+          ssh-private-key: ${{
+b3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAAAMwAAAAtzc2gtZW
+QyNTUxOQAAACAeKEWBvJ4+p/0W+KDRv07g9BqXY758KJ2DGpdRVCJHOgAAAJhwFtEHcBbR
+BwAAAAtzc2gtZWQyNTUxOQAAACAeKEWBvJ4+p/0W+KDRv07g9BqXY758KJ2DGpdRVCJHOg
+AAAEABMYTRoMNq8tppR2hMowcFHnhBtEhxroRAt1HJrynGqR4oRYG8nj6n/Rb4oNG/TuD0
+GpdjvnwonYMal1FUIkc6AAAAE2lhbkBoZXl0aGVyZWlhbi5jb20BAg==}}
+      - name: Release to GitHub Pages
+        env:
+          USE_SSH: true
+          GIT_USER: git
+        run: |
+          git config --global user.email "ian@heythereian.com"
+          git config --global user.name "gh-actions"
+          if [ -e yarn.lock ]; then
+            yarn install --frozen-lockfile
+          elif [ -e package-lock.json ]; then
+            npm ci
+          else
+            npm i
+          fi
+          npm run deploy
