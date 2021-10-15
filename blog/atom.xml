@@ -8,6 +8,28 @@
     <subtitle>Hi, This Is Ian Blog</subtitle>
     <icon>https://heythereian.com/img/favicon.ico</icon>
     <entry>
+        <title type="html"><![CDATA[Hãy nhớ rằng nỗi đau chỉ là nhất thời]]></title>
+        <id>hay-nho-rang-noi-dau-chi-la-nhat-thoi</id>
+        <link href="https://heythereian.com/blog/hay-nho-rang-noi-dau-chi-la-nhat-thoi"/>
+        <updated>2021-09-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This article first appeared on Spiderum, translated from a piece on Thought Catalog. References are at the bottom of the article.]]></summary>
+        <author>
+            <name>Ian Nguyen</name>
+            <uri>https://github.com/fineon</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sự cô đơn cứ tiếp diễn như thế nào?]]></title>
+        <id>su-co-don-cu-tiep-dien-nhu-the-nao</id>
+        <link href="https://heythereian.com/blog/su-co-don-cu-tiep-dien-nhu-the-nao"/>
+        <updated>2021-09-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This article first appeared on Spiderum as one of my Vietnamese translation piece that accumulated over 1300 views.]]></summary>
+        <author>
+            <name>Ian Nguyen</name>
+            <uri>https://github.com/fineon</uri>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Why I Switched from OneNote to Notion]]></title>
         <id>why-i-switched-from-onenote-to-notion</id>
         <link href="https://heythereian.com/blog/why-i-switched-from-onenote-to-notion"/>
