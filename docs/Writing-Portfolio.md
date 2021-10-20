@@ -71,6 +71,6 @@ All social media copies are planned and written prior to publishing date, which 
 
 ### MOSAIC
 
-- [Immigrant Professional Conference](https://www.instagram.com/p/BnpRtGdFv1t/?utm_source=ig_web_copy_link) promotion
-- [IPC's promotion for Iris Cai's panel presentation](https://www.instagram.com/p/Bn_u-B3ltut/?utm_source=ig_web_copy_link)
+- [Immigrant Professional Conference promotion](https://www.instagram.com/p/BnpRtGdFv1t/?utm_source=ig_web_copy_link) promotion
+- [Immigrant Professional Conference's promotion for Iris Cai's panel presentation](https://www.instagram.com/p/Bn_u-B3ltut/?utm_source=ig_web_copy_link)
 - [Content and grapgic design for IPC's annual promotion](https://www.instagram.com/p/BoAMPdhliXl/?utm_source=ig_web_copy_link)
