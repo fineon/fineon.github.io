@@ -9,7 +9,7 @@ Check out applications I have built below and the tech stacks I used to build th
 - [CoDash-19 website](https://codash-19.herokuapp.com)
 - [Github repository](https://github.com/fineon/data-visualization)
 
-![Untitled](./assets/My-Development-Projects/codash-19.png)
+![Untitled](./../assets/My-Development-Projects/codash-19.png)
 
 **Description**: Built during the peak of COVID-19 pandemic, this web application tracks statistics of COVID-19 cases around the world and in Canada. The web app also offers a succint summary and analysis of current statistics like recovery rate, total cases, death rate, top 5 countries with most cases and more. 
 
@@ -34,7 +34,7 @@ Check out applications I have built below and the tech stacks I used to build th
 - [heythereian.com](https://heythereian.com)
 - [Github repository](https://github.com/fineon/fineon.github.io/)
 
-![Untitled](./assets/My-Development-Projects/heythereian.png)
+![Untitled](./../assets/My-Development-Projects/heythereian.png)
 
 **Description**: A rebuild of my personal website using Docusaurus. Features include: Single Page App (SPA) that renders fast, static content rendering of Markdown files, React pages and custom React components. server-side rendering and dynamic sitemap.xml generation for search engine discovery. 
 
@@ -57,7 +57,7 @@ Check out applications I have built below and the tech stacks I used to build th
 - [Website](https://nodejs.heythereian.com)
 - [Github repository](https://github.com/fineon/brainflix)
 
-![Untitled](./assets/My-Development-Projects/brainflix.png)
+![Untitled](./../assets/My-Development-Projects/brainflix.png)
 
 **Descriptions**: This is a React application website for a social video network. It is built using React and third-party tools like the CSS pre-processor SCSS. 
 
@@ -82,7 +82,7 @@ Check out applications I have built below and the tech stacks I used to build th
 - [Website](https://github.com/fineon/Construction-website)
 - [Github repository](https://github.com/fineon/Construction-website)
 
-![Untitled](./assets/My-Development-Projects/constructionco.png)
+![Untitled](./../assets/My-Development-Projects/constructionco.png)
 
 **Description**: A website built for a construction company that showcases their services and products using the React framework Next.js that combines server-side rendering and client-side application. The website also fetches blog content from a WordPress headless CMS. 
 
