@@ -36,7 +36,7 @@ function HomeBody(params) {
               <h3> Content writing</h3>
             </div>
             <div className='card__body'>
-              <p>I have written articles for Vancouver's cultural newspaper <a href="https://thelasource.com/en/author/vinhnguyen/"> The Source </a> and <a href="https://whatsonqueerbc.com/woq-bc-stories?author=5f8f55db41ba6247cbc23cf6"> What's on Queer in BC </a>, an online LGBT press for local queers.</p>
+              <p>I have written articles for Vancouver's cultural newspaper <a href="https://thelasource.com/en/author/vinhnguyen/"> The Source </a> and <Link to="https://whatsonqueerbc.com/woq-bc-stories?author=5f8f55db41ba6247cbc23cf6"> What's on Queer in BC </Link>, an online LGBT press for local queers.</p>
               <p>I have also been a ghostwriter (article author without attribution and copyright) for various clients and products.</p>
               <p>
                 I also enjoy sharing my thoughts on various topics on <Link to='/blog'>my blog</Link> .
@@ -52,7 +52,7 @@ function HomeBody(params) {
             </div>
             <div className='card__body'>
               <p>I can speak in <pre>Javascript</pre> and <pre>Python</pre> to developers. I have also built responsive web apps for using both front-end and back-end technologies.</p>
-              <p>My current tech stack includes</p>
+              <p>My current tech stack includes:</p>
               <ul>
                 <li>Front-end: HTML, CSS, Javascript, React, Next.js, Bootstrap, Highcharts.js</li>
                 <li>Back-end: Node.js, Express.js, Next.js</li>
@@ -71,7 +71,6 @@ function HomeBody(params) {
               <p>I am currently using <a href='https://docusaurus.io'>Docusaurus</a> as my main document builder. Docusaurus is a React-based static site generator that is geared towards documenters and technical writers. It allows HTML, CSS and Javascript customization for diverse looks and appearance while still allowing writers to focus on writing contents. It is easily deployed on Github Pages.</p>
               <p>Currently looking into</p>
               <ul>
-                <li>Python's web framework Django</li>
                 <li>Python document builder Sphinx</li>
                 <li>XML framework DITA</li>
               </ul>
@@ -81,7 +80,7 @@ function HomeBody(params) {
         </div>
       </div>
 
-     
+
 
       <h2>I Previously Worked At</h2>
       <div className='row margin-bottom--xl'>
@@ -92,6 +91,12 @@ function HomeBody(params) {
             </div>
             <div className='card__body'>
               <p>I have executed marketing campaigns for PayByPhone social media networks across North America including managing advertisement spending budget, writing various copies for social media posts and coordinating with third-party vendors for merchandise and supplies.</p>
+              <p>My duties included</p>
+              <ul>
+                <li>Conducted market research, customer behaviours and developed a marketing content calendar.</li>
+                <li>Coordinated marketing campaigns such as prize sponsorships and contest winner giveaway.</li>
+                <li>Updated web content and scheduled press releases using internal CMS.</li>
+              </ul>
             </div>
             <div className='card__footer'></div>
           </div>
@@ -116,10 +121,21 @@ function HomeBody(params) {
         <div className='col margin-bottom--lg'>
           <div className='card'>
             <div className='card__header'>
-              <h3>MOSAIC</h3>
+              <h3>Cerebral Palsy Association of British Columbia</h3>
             </div>
             <div className='card__body'>
-              <p>Ran marketing advertisements and wrote copies for social media posts to promote the IPC conference.</p>
+              <p>My duties included</p>
+              <ul>
+                <li>
+                  Developed and implemented company website content, and email marketing strategies.
+                  </li>
+                <li>
+                  Published news articles and featured stories on organization's WordPress CMS site. Maintain company website.
+                  </li>
+                <li>
+                  Communicated to an audience of over 1000 people using Mailchimp to manage The Insider monthly newsletter, with an open rate of 30%.
+                </li>
+              </ul>
             </div>
             <div className='card__footer'></div>
           </div>
