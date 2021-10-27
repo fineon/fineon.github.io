@@ -1,5 +1,13 @@
 # Writing Portfolio
 
+## Development
+### Hackernoon
+- [How to Use ShellJS to Combine Bash Shell Commands and Javascript](https://hackernoon.com/how-to-use-shelljs-to-combine-bash-shell-commands-and-javascript)
+
+I wrote a quick start guide on using ShellJS - a Javascript library that ports Bash-like commands to Javascript. The guide provides an overview of Bash command lines, ShellJS. I also provided initial setup guide, and some example usage for ShellJS. 
+
+
+
 ## Press Releases
 
 **Client**: Phytoextractions Inc.
