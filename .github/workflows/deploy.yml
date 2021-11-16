@@ -7,6 +7,29 @@ on:
     branches: [main]
 
 jobs:
+  prose:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@master
+
+    - name: Vale
+      uses: errata-ai/vale-action@v1.4.0
+      with:
+        # Optional
+        styles: |
+          https://github.com/errata-ai/Microsoft/releases/latest/download/Microsoft.zip
+          https://github.com/errata-ai/write-good/releases/latest/download/write-good.zip
+
+        # Optional
+        config: https://raw.githubusercontent.com/errata-ai/vale/master/.vale.ini
+
+        # Optional
+        files: path/to/lint
+      env:
+        # Required
+        USE_SSH: true
+        GIT_USER: git
   checks:
     if: github.event_name != 'push'
     runs-on: ubuntu-latest
