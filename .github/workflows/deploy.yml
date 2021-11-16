@@ -28,8 +28,7 @@ jobs:
         files: path/to/lint
       env:
         # Required
-        USE_SSH: true
-        GIT_USER: git
+        GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
   checks:
     if: github.event_name != 'push'
     runs-on: ubuntu-latest
