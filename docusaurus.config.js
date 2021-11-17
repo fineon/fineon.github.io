@@ -22,6 +22,16 @@ module.exports = {
           to: '/docs/intro',
         },
         {
+          to: '/My-Development-Projects',
+          label: 'Dev Projects',
+          position: 'left',
+        },
+        {
+          to: '/Writing-Portfolio',
+          label: 'Writing Profolio',
+          position: 'left',
+        },
+        {
           to: '/blog',
           label: 'Blog',
           position: 'left'
