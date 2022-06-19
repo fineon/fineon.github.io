@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocsaur_ian=self.webpackChunkdocsaur_ian||[]).push([[1101],{5602:function(s){s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/destiny-2","name":"destiny2","count":1,"permalink":"/blog/tags/destiny-2"}')}}]);

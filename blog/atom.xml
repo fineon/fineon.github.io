@@ -2,22 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://heythereian.com/blog</id>
     <title>Hi, This Is Ian Blog</title>
-    <updated>2022-03-14T00:00:00.000Z</updated>
+    <updated>2021-09-14T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://heythereian.com/blog"/>
     <subtitle>Hi, This Is Ian Blog</subtitle>
     <icon>https://heythereian.com/img/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Destiny 2 Community Vocabulary 2022 Edition]]></title>
-        <id>Destiny-2-Community-Vocabulary-2022-Edition</id>
-        <link href="https://heythereian.com/blog/Destiny-2-Community-Vocabulary-2022-Edition"/>
-        <updated>2022-03-14T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to Destiny 2, guardian! The world of the guardians is always filled with mysterious, abstract lingo that are often used by fellow peers. Sometimes, you will encounter certain words used in the community forum, which might not be clear at first glance. Hence, I have compiled a list of the keywords used by the Desitny 2 community as of Janurary 2022, which is just before the Witch Queen expansion pack release.]]></summary>
-        <author>
-            <name>Ian Nguyen</name>
-            <uri>https://github.com/fineon</uri>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Hãy nhớ rằng nỗi đau chỉ là nhất thời]]></title>
         <id>hay-nho-rang-noi-dau-chi-la-nhat-thoi</id>
