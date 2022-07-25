@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocsaur_ian=self.webpackChunkdocsaur_ian||[]).push([[7287],{4980:a=>{a.exports=JSON.parse('{"label":"notion","permalink":"/blog/tags/notion","allTagsPath":"/blog/tags","count":1}')}}]);

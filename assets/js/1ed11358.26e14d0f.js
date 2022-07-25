@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocsaur_ian=self.webpackChunkdocsaur_ian||[]).push([[2029],{6302:a=>{a.exports=JSON.parse('{"label":"vietnamese","permalink":"/blog/tags/vietnamese","allTagsPath":"/blog/tags","count":2}')}}]);
