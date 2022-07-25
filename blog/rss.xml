@@ -4,9 +4,16 @@
         <title>Hi, This Is Ian Blog</title>
         <link>https://heythereian.com/blog</link>
         <description>Hi, This Is Ian Blog</description>
-        <lastBuildDate>Tue, 14 Sep 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[A simple utility script to combine two JSON files together]]></title>
+            <link>https://heythereian.com/blog/json-file-handling</link>
+            <guid>json-file-handling</guid>
+            <pubDate>Sun, 24 Jul 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[So I have been working on some REST API and JSON. One of the task that had to be done was how to manage multiple people editing a single API data point. So I came up with an idea of splitting a single JSON API data file into multiple files called “fragments”. Each “fragment” will hold a smaller amount of data created by a single author or contributor. The fragments will always adhere to the JSON data schema of course. Here’s an example of a JSON file as the API data. This fragment is named api-data.json]]></description>
+        </item>
         <item>
             <title><![CDATA[Hãy nhớ rằng nỗi đau chỉ là nhất thời]]></title>
             <link>https://heythereian.com/blog/hay-nho-rang-noi-dau-chi-la-nhat-thoi</link>
