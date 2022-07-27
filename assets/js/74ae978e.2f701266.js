@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocsaur_ian=self.webpackChunkdocsaur_ian||[]).push([[3402],{1001:s=>{s.exports=JSON.parse('{"label":"wordpress","permalink":"/blog/tags/wordpress","allTagsPath":"/blog/tags","count":1}')}}]);

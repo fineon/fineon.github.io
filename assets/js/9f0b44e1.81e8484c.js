@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocsaur_ian=self.webpackChunkdocsaur_ian||[]).push([[9283],{2725:a=>{a.exports=JSON.parse('{"label":"xubuntu","permalink":"/blog/tags/xubuntu","allTagsPath":"/blog/tags","count":2}')}}]);

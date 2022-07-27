@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocsaur_ian=self.webpackChunkdocsaur_ian||[]).push([[6463],{2069:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/dell","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
