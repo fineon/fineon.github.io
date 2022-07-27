@@ -1,6 +1,7 @@
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
+//insert this in presets doc key to enable docs feature
 let docConfig = {
   sidebarPath: require.resolve('./sidebars.js'),
   editUrl:
