@@ -1,3 +1,14 @@
+---
+slug: install-xubuntu-dell-xps-13
+title: Install Xubuntu on Dell XPS 13 9343
+author: Ian Nguyen
+author_title: Author
+author_url: https://github.com/fineon
+author_image_url: https://avatars.githubusercontent.com/u/38566281?v=4
+date: 2022-07-26
+tags: [xubuntu, dell]
+---
+
 # Install Xubuntu on Dell XPS 13 9343
 
 ## **Context**

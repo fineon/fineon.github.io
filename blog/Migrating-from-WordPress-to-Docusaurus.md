@@ -1,3 +1,13 @@
+---
+slug: migrate-wordpress-to-docusaurus
+title: Migrating from WordPress to Docusaurus
+author: Ian Nguyen
+author_title: Author
+author_url: https://github.com/fineon
+author_image_url: https://avatars.githubusercontent.com/u/38566281?v=4
+date: 2022-01-15
+tags: [wordpress, docusaurus]
+---
 # Migrating from WordPress to Docusaurus
 
 I have been thinking about moving away from WordPress to a static website build. On my search, I have discovered 11ty, Next.js, Create React App and Gatsby.js. All of them provide the tools to create a perfectly functional website. However, I realized that they all required a lot of manual configurations and HTML + CSS template customizations, which consumes too much time to my likings. 

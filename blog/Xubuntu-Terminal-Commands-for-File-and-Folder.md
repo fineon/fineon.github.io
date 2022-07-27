@@ -1,3 +1,14 @@
+---
+slug: xubuntu-commands-terminal
+title: Xubuntu Terminal Commands for File and Folder Management
+author: Ian Nguyen
+author_title: Author
+author_url: https://github.com/fineon
+author_image_url: https://avatars.githubusercontent.com/u/38566281?v=4
+date: 2022-07-26
+tags: [xubuntu, cli]
+---
+
 # Xubuntu Terminal Commands for File and Folder Management
 
 If you are using a Xubuntu distribution, check out this short list of essential terminal commands for managing files and folders. 

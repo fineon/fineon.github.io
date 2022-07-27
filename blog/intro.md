@@ -1,5 +1,12 @@
 ---
-sidebar_position: 1
+slug: welcome
+title: Welcome
+author: Ian Nguyen
+author_title: Author
+author_url: https://github.com/fineon
+author_image_url: https://avatars.githubusercontent.com/u/38566281?v=4
+date: 2019-01-15
+tags: [welcome]
 ---
 
 # Welcome to Notes

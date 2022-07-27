@@ -1,6 +1,12 @@
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
+let docConfig = {
+  sidebarPath: require.resolve('./sidebars.js'),
+  editUrl:
+    'https://github.com/fineon/fineon.github.io/tree/main/',
+}
+
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'Hi, This Is Ian',
@@ -89,11 +95,7 @@ module.exports = {
     [
       '@docusaurus/preset-classic',
       {
-        docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
-          editUrl:
-            'https://github.com/fineon/fineon.github.io/tree/main/',
-        },
+        docs: false,
         blog: {
           showReadingTime: true,
           editUrl:
