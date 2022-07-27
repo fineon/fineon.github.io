@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://heythereian.com/blog</id>
-    <title>Hi, This Is Ian Blog</title>
+    <title>Technology muse, node.js and more Blog</title>
     <updated>2022-07-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://heythereian.com/blog"/>
-    <subtitle>Hi, This Is Ian Blog</subtitle>
+    <subtitle>Technology muse, node.js and more Blog</subtitle>
     <icon>https://heythereian.com/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Install Xubuntu on Dell XPS 13 9343]]></title>
