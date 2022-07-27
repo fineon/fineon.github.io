@@ -9,7 +9,7 @@ let docConfig = {
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'Hi, This Is Ian',
+  title: 'Technology muse, node.js and more',
   tagline: 'Content creator exploring the vast world of Linux and open source softwares.',
   url: 'https://heythereian.com',
   baseUrl: '/',

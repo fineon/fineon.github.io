@@ -80,68 +80,6 @@ function HomeBody(params) {
         </div>
       </div>
 
-
-
-      <h2>I Previously Worked At</h2>
-      <div className='row margin-bottom--xl'>
-        <div className='col margin-bottom--lg'>
-          <div className='card'>
-            <div className='card__header'>
-              <h3>PayByPhone</h3>
-            </div>
-            <div className='card__body'>
-              <p>I have executed marketing campaigns for PayByPhone social media networks across North America including managing advertisement spending budget, writing various copies for social media posts and coordinating with third-party vendors for merchandise and supplies.</p>
-              <p>My duties included</p>
-              <ul>
-                <li>Conducted market research, customer behaviours and developed a marketing content calendar.</li>
-                <li>Coordinated marketing campaigns such as prize sponsorships and contest winner giveaway.</li>
-                <li>Updated web content and scheduled press releases using internal CMS.</li>
-              </ul>
-            </div>
-            <div className='card__footer'></div>
-          </div>
-        </div>
-        <div className='col margin-bottom--lg'>
-          <div className='card'>
-            <div className='card__header'>
-              <h3>General Internet</h3>
-            </div>
-            <div className='card__body'>
-              <p>I have performed various duties at General Internet as a Marketing Coordinator. </p>
-              <p>My duties included</p>
-              <ul>
-                <li>Writing various web copies for corporate websites.</li>
-                <li>Writing Standard Operating Procedures (SOP) that onboard new clients on how to use new technologies.</li>
-                <li>Documenting company's Enterprise Resource Planning Tool (ERP) features and special behavious.</li>
-              </ul>
-            </div>
-            <div className='card__footer'></div>
-          </div>
-        </div>
-        <div className='col margin-bottom--lg'>
-          <div className='card'>
-            <div className='card__header'>
-              <h3>Cerebral Palsy Association of British Columbia</h3>
-            </div>
-            <div className='card__body'>
-              <p>My duties included</p>
-              <ul>
-                <li>
-                  Developed and implemented company website content, and email marketing strategies.
-                  </li>
-                <li>
-                  Published news articles and featured stories on organization's WordPress CMS site. Maintain company website.
-                  </li>
-                <li>
-                  Communicated to an audience of over 1000 people using Mailchimp to manage The Insider monthly newsletter, with an open rate of 30%.
-                </li>
-              </ul>
-            </div>
-            <div className='card__footer'></div>
-          </div>
-        </div>
-      </div>
-
     </main>
   )
 }
@@ -151,7 +89,7 @@ export default function Home() {
   return (
     <>
       <Layout
-        // title={siteConfig.title}
+        title={siteConfig.title}
         description="Ian Nguyen's personal website"
       >
         <HomepageHeader />
