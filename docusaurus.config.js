@@ -24,10 +24,6 @@ module.exports = {
       title: 'Ian Nguyen',
       items: [
         {
-          label: 'Notes',
-          to: '/docs/intro',
-        },
-        {
           to: '/My-Development-Projects',
           label: 'Dev Projects',
           position: 'left',
@@ -61,8 +57,8 @@ module.exports = {
           title: 'Docs',
           items: [
             {
-              label: 'Notes',
-              to: '/docs/intro',
+              label: 'Welcome',
+              to: '/blog/welcome',
             },
           ],
         },
